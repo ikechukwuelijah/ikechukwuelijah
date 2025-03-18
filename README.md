@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Ik..
 Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on all interesting ETL projects
+- 🔭 I’m currently working on a series of interesting ETL projects, one after another
 - 🌱 I’m currently learning everthing CLOUD
 - 👯 I’m looking to collaborate on anything ETL
 - 💬 Ask me about ETL
