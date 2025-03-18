@@ -2,11 +2,11 @@
 Welcome to my GitHub profile!
 
 - 🔭 I’m currently working on a series of interesting ETL projects, one after another
-- 🌱 I’m currently learning everthing CLOUD
+- 🌱 I’m currently learning anything CLOUD, AI
 - 👯 I’m looking to collaborate on anything ETL
 - 💬 Ask me about ETL
-- 📫 How to reach me: Email: Ikechukwu.elijah@yahoo.com
-- 😄 Pronouns: He/Him
+- 📫 How to reach me: Email Ikechukwu.elijah@yahoo.com
+- 😄 Pronouns: He, Him
 - ⚡ Fun fact: Your brain physically changes when you learn
 
 ## 🚀 Skills  
@@ -24,7 +24,6 @@ Welcome to my GitHub profile!
 
 ### **DevOps & Tools**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
