@@ -1,6 +1,14 @@
 # Hi there 👋, I'm Ik..
 Welcome to my GitHub profile!
 
+- 🔭 I’m currently working on all interesting ETL projects
+- 🌱 I’m currently learning everthing CLOUD
+- 👯 I’m looking to collaborate on anything ETL
+- 💬 Ask me about ETL
+- 📫 How to reach me: Email: Ikechukwu.elijah@yahoo.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Your brain physically changes when you learn
+
 <!--
 **ikechukwuelijah/ikechukwuelijah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
