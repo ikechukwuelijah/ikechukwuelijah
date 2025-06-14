@@ -1,4 +1,7 @@
-# 👋 Hi there, I'm Ik!
+<div align="center">
+    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Ike;This+is..;..my+Github..;" alt="Typing SVG"/></h1👋>
+    <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
+</div>
 Welcome to my GitHub profile!
 
 - 🔭 I’m currently working on a series of interesting ETL projects, one after another
