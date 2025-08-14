@@ -32,8 +32,10 @@ Welcome to my GitHub profile!
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![OpenMetaData](https://img.shields.io/badge/OpenMetadata-FF4088?style=for-the-badge&logo=openmetadata&logoColor=white)
+![GitGuardian](https://img.shields.io/badge/GitGuardian-FF6C37?style=for-the-badge&logo=gitguardian&logoColor=white)
 ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 
 
 <div align="center">
