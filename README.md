@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 - 🌱 I’m currently learning anything CLOUD, AI
 - 👯 I’m looking to collaborate on anything ETL, Web dev, App dev, anything tech..
 - 💬 Ask me about tech
-- 📫 How to reach me: Email Ikechukwu.elijah@yahoo.com
+- 📫 How to reach me - Email: Ikechukwu.elijah@yahoo.com, Mobile: +14168330686 
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: Your brain physically changes when you learn
 
