@@ -5,8 +5,8 @@
 Welcome to my GitHub profile!
 
 - 🔭 I’m currently working on a series of interesting ETL projects, one after another
-- 🌱 I’m currently learning anything CLOUD, AI
-- 👯 I’m looking to collaborate on anything ETL, Web dev, App dev, anything tech..
+- 🌱 I’m currently learning anything CLOUD, AI automation
+- 👯 I’m looking to collaborate on anything Data, ETL, Web/App dev, anything tech..
 - 💬 Ask me about tech
 - 📫 How to reach me - Email: Ikechukwu.elijah@yahoo.com, Mobile: +14168330686 
 - 😄 Pronouns: He, Him
