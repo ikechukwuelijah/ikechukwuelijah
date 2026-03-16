@@ -5,6 +5,7 @@
 </div>
 Welcome to my GitHub profile!
 
+
 - 🔭 I’m currently working on a series of interesting ETL projects, one after another
 - 🌱 I’m currently learning anything Cloud, AI automation
 - 👯 I’m looking to collaborate on anything Data, ETL..
